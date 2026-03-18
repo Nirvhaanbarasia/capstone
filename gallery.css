@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(blue,green);
+}
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
